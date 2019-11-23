@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1111/bTree.h
+iostream
+-
+cstring
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1111/main.cpp
+bTree.h
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1111/bTree.h
+
