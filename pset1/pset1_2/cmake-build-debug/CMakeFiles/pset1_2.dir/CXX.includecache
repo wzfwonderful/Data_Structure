@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset1/pset1_2/main.cpp
+polynomial.h
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset1/pset1_2/polynomial.h
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset1/pset1_2/polynomial.h
+iostream
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset2/distribution/distribute.h
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset2/distribution/main.cpp
+distribute.h
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset2/distribution/distribute.h
+
