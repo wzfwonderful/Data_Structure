@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1216/main.cpp
+priorityQueue.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1216/priorityQueue.hpp
+cstring
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1216/priorityQueue.hpp
+iostream
+-
+

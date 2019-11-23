@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1221/bst.hpp
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1221/main.cpp
+bst.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1221/bst.hpp
+string
+-
+
