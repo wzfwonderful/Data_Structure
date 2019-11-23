@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset3/sort_tree_homework/bTree.h
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset3/sort_tree_homework/main.cpp
+bTree.h
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset3/sort_tree_homework/bTree.h
+

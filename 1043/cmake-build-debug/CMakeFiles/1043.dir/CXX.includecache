@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1043/deque.hpp
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1043/main.cpp
+deque.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/1043/deque.hpp
+
