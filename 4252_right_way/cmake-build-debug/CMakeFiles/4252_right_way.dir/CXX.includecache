@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/4252_right_way/function.hpp
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/4252_right_way/main.cpp
+priorityQueue.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/4252_right_way/priorityQueue.hpp
+function.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/4252_right_way/function.hpp
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/IEEE/4252_right_way/priorityQueue.hpp
+iostream
+-
+
