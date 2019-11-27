@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset5/binary_search_tree/bst.hpp
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset5/binary_search_tree/main.cpp
+bst.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset5/binary_search_tree/bst.hpp
+
