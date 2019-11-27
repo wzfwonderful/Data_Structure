@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset5/hash_table/hashTable.hpp
+iostream
+-
+
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset5/hash_table/main.cpp
+hashTable.hpp
+/Users/wzfwonderful/CLionProjects/Data_Structure/zhaoshizhen/pset5/hash_table/hashTable.hpp
+
